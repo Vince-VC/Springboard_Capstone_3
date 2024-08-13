@@ -1,11 +1,11 @@
 # Springboard_Capstone_3
 
 Problem Statement:
-The CEO has a mandate of growing the company by 20% next year. To accomplish this goal, he has determined the company’s workforce will need to expand by 10% and marketing spend will need to increase by 15%. Annual revenue must be projected to grow by at least 5% for the next 12 months to accommodate the increase in costs and time it will take for marketing to take effect for the 20% growth to be realized. With a high degree of accuracy, what will the company’s projected revenue be next month, next quarter, and next year; and does projected revenue support the CEO’s expansion plans?
+The CEO has a mandate of expanding the company internationally next year. To accomplish this goal, he has determined the company’s workforce will need to expand by 20% and marketing spend will need to increase by 15%. Annual revenue must be projected to grow by at least 15% for the next 12 months to accommodate the increase in costs and time it will take for marketing to take effect and the international expansion to be fully realized. With a high degree of accuracy, what will the company’s projected revenue be next year; and does projected revenue support the CEO’s expansion plans?
 
 Context:
 E-commerce stores have exploded in popularity over the last 2 decades.
-Having a forecast on next month, next quarter, and next year’s sales is extremely beneficial to a business.
+Having a forecast on next year’s sales is extremely beneficial to a business.
 It gives executives information on how fast/slow to grow the company, manage inventory to minimize waste, when to test new products, etc.
 The goal is to build a model that can accurately predict future sales which will allow the executive team to make a data driven business decision as to whether or not to follow through with expansion plans that are pivotal to the company’s growth and success.
 This should be done with a high degree of accuracy (low margin of error).
